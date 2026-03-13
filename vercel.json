@@ -26,8 +26,7 @@
     },
     {
       "source": "/(.*)",
-      "destination": "/client/$1",
-      "continue": true
+      "destination": "/client/$1"
     },
     {
       "source": "/(.*)",
